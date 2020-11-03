@@ -1,0 +1,24 @@
+table,
+tr,
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid;
+  padding: 25px;
+  text-align: center;
+}
+body {
+  display: flex;
+  background-color: rgb(27, 25, 25);
+  color: rgb(238, 8, 123);
+  font-size: 1.2rem;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1 {
+  color: rgb(253, 253, 4);
+}
+th {
+  background-color: rgb(73, 10, 126);
+}
